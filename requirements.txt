@@ -1,0 +1,7 @@
+torch>=2.0
+transformers>=4.36
+peft>=0.7
+deepspeed>=0.12
+accelerate>=0.25
+huggingface_hub>=0.20
+datasets>=2.16

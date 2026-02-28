@@ -1,0 +1,15 @@
+# Star History chart is served live via https://api.star-history.com/svg
+# No manual update needed - the README image fetches fresh data on each view.
+# This workflow runs weekly as a health check.
+name: Weekly Check
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Every Sunday 00:00 UTC
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify README
+        run: test -f README.md && echo "README OK"
