@@ -7,6 +7,16 @@
 
 ---
 
+## Official GitHub
+
+- **Project Page**: [https://it-s-time-to-get-it-right.github.io/](https://it-s-time-to-get-it-right.github.io/)
+- **Hugging Face Dataset**: [https://huggingface.co/datasets/jaeha-choi/TickTockVQA](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
+- **GitHub Repository**: [https://github.com/allchiever/It-s-Time-to-Get-It-Right](https://github.com/allchiever/It-s-Time-to-Get-It-Right)
+
+> **Dataset Notice**: This dataset is collected from publicly available data corpora. The copyright and redistribution conditions of the dataset do not belong to the authors of this project. Please refer to the respective source data corpora and the license information in the `annotations.json` file for details on usage, attribution, and redistribution terms.
+
+---
+
 ## Quick Start
 
 TickTockVQA supports training with multiple Vision-Language Models. Use the scripts below for quick LoRA fine-tuning.
