@@ -1,14 +1,9 @@
-# It's Time to Get It Right. CVPR Findings Official Github
+# It's Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models
 
+[![CVPR 2026 Findings](https://img.shields.io/badge/CVPR-2026%20Findings-8b0000.svg)](https://cvpr.thecvf.com/)
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
-[![Project Page](https://img.shields.io/badge/Project%20Page-Link-blue)](https://YOUR_PROJECT_PAGE_URL)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=allchiever/It-s-Time-to-Get-It-Right&type=Date)](https://star-history.com/#allchiever/It-s-Time-to-Get-It-Right&Date)
-
-> The star history chart above is automatically updated via [Star History API](https://www.star-history.com/). No manual refresh needed.
+[![Project Page](https://img.shields.io/badge/Project%20Page-Link-blue)](https://it-s-time-to-get-it-right.github.io/)
 
 ---
 
@@ -69,11 +64,11 @@ python scripts/upload_to_huggingface.py --dataset_path ./data_pool/TickTockVQA_O
 ## Citation
 
 ```bibtex
-@inproceedings{},
-  title={},
+@inproceedings{ticktockvqa2026,
+  title={It's Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models},
   author={},
   booktitle={CVPR},
-  year={}
+  year={2026}
 }
 ```
 
@@ -82,5 +77,11 @@ python scripts/upload_to_huggingface.py --dataset_path ./data_pool/TickTockVQA_O
 ## Links
 
 - **arXiv**: [Add your paper link]
-- **Hugging Face Dataset**: [Add your dataset link]
-- **Project Page**: [Add your project page link]
+- **Hugging Face Dataset**: [https://huggingface.co/datasets/jaeha-choi/TickTockVQA](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
+- **Project Page**: [https://it-s-time-to-get-it-right.github.io/](https://it-s-time-to-get-it-right.github.io/)
+
+---
+
+## Star History
+
+<a href="https://star-history.com/#allchiever/It-s-Time-to-Get-It-Right&Date"><img src="https://api.star-history.com/svg?repos=allchiever/It-s-Time-to-Get-It-Right&type=Date" width="400" alt="Star History Chart" /></a>
