@@ -1,12 +1,12 @@
 # It's Time to Get It Right. CVPR Findings Official Github
 
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/YOUR_USERNAME/TickTockVQA)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
 [![Project Page](https://img.shields.io/badge/Project%20Page-Link-blue)](https://YOUR_PROJECT_PAGE_URL)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/It-s-Time-to-Get-It-Right&type=Date)](https://star-history.com/#YOUR_USERNAME/It-s-Time-to-Get-It-Right&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=allchiever/It-s-Time-to-Get-It-Right&type=Date)](https://star-history.com/#allchiever/It-s-Time-to-Get-It-Right&Date)
 
 > The star history chart above is automatically updated via [Star History API](https://www.star-history.com/). No manual refresh needed.
 
@@ -58,7 +58,7 @@ python scripts/train_qwen.py \
 
 ### Dataset
 
-Download the TickTockVQA dataset from [Hugging Face](https://huggingface.co/datasets/YOUR_USERNAME/TickTockVQA) or use the upload script:
+Download the TickTockVQA dataset from [Hugging Face](https://huggingface.co/datasets/jaeha-choi/TickTockVQA) or use the upload script:
 
 ```bash
 python scripts/upload_to_huggingface.py --dataset_path ./data_pool/TickTockVQA_Official
