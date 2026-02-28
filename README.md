@@ -1,4 +1,4 @@
-# It's Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models
+# It's Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models[CVPR 2026 Findings]
 
 [![CVPR 2026 Findings](https://img.shields.io/badge/CVPR-2026%20Findings-8b0000.svg)](https://cvpr.thecvf.com/)
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
