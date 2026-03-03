@@ -1,9 +1,22 @@
-# It's Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models. [CVPR 2026 Findings]
+<div align="center">
+
+# It's Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models.
+
+[Jaeha Choi](https://github.com/allchiever)<sup>1\*</sup>, [Jin Won Lee](https://github.com/jinleevv)<sup>2\*</sup>, Siwoo You<sup>1</sup>, Jangho Lee<sup>1†</sup>
+
+<sup>\*</sup>Equal Contribution. <sup>†</sup>Corresponding Author.
+
+<sup>1</sup>Incheon National University, Incheon, Republic of Korea  
+ <sup>2</sup>McGill University, Montreal, Canada
+
+### **CVPR 2026 Findings** 🔥
 
 [![CVPR 2026 Findings](https://img.shields.io/badge/CVPR-2026%20Findings-8b0000.svg)](https://cvpr.thecvf.com/)
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
 [![Project Page](https://img.shields.io/badge/Project%20Page-Link-blue)](https://it-s-time-to-get-it-right.github.io/)
+
+</div>
 
 ---
 
@@ -23,11 +36,11 @@ TickTockVQA supports training with multiple Vision-Language Models. Use the scri
 
 ### Supported Models
 
-| Model | Script | Base Model |
-|-------|--------|------------|
+| Model                | Script                   | Base Model                                 |
+| -------------------- | ------------------------ | ------------------------------------------ |
 | **Llama 3.2 Vision** | `scripts/train_llama.py` | `meta-llama/Llama-3.2-11B-Vision-Instruct` |
-| **Gemma 3** | `scripts/train_gemma.py` | `google/gemma-3-4b-it` |
-| **Qwen2-VL** | `scripts/train_qwen.py` | `Qwen/Qwen2.5-VL-7B-Instruct` |
+| **Gemma 3**          | `scripts/train_gemma.py` | `google/gemma-3-4b-it`                     |
+| **Qwen2-VL**         | `scripts/train_qwen.py`  | `Qwen/Qwen2.5-VL-7B-Instruct`              |
 
 ### Prerequisites
 
@@ -38,6 +51,7 @@ pip install torch transformers peft deepspeed accelerate
 ### Training
 
 **1. Llama 3.2 Vision**
+
 ```bash
 python scripts/train_llama.py \
     --data_path /path/to/annotations.json \
@@ -46,6 +60,7 @@ python scripts/train_llama.py \
 ```
 
 **2. Gemma 3**
+
 ```bash
 python scripts/train_gemma.py \
     --data_path /path/to/annotations.json \
@@ -54,6 +69,7 @@ python scripts/train_gemma.py \
 ```
 
 **3. Qwen2-VL**
+
 ```bash
 python scripts/train_qwen.py \
     --data_path /path/to/annotations.json \
