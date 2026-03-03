@@ -11,18 +11,6 @@
 
 ### **CVPR 2026 Findings** 🔥
 
-> ⭐ **If you use our dataset, please star this repository!**
->
-> Click the **Star** button at the top-right of the [GitHub repository](https://github.com/allchiever/It-s-Time-to-Get-It-Right) ↓
->
-> ```
-> ┌──────────────────────────────────────────────────────────────┐
-> │  It-s-Time-to-Get-It-Right         [Watch] [Fork] [⭐ Star] │
-> │                                                    ↑         │
-> │                                              Click here!     │
-> └──────────────────────────────────────────────────────────────┘
-> ```
-
 [![CVPR 2026 Findings](https://img.shields.io/badge/CVPR-2026%20Findings-8b0000.svg)](https://cvpr.thecvf.com/)
 [![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon!-b31b1b.svg)](#)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
@@ -100,7 +88,6 @@ python scripts/upload_to_huggingface.py --dataset_path ./data_pool/TickTockVQA_O
 ---
 
 ## Citation
-
 Coming Soon!
 
 ---
