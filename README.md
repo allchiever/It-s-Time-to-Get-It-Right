@@ -6,22 +6,22 @@
 >
 > ```
 > ┌──────────────────────────────────────────────────────────────┐
-> │  It-s-Time-to-Get-It-Right          [Watch] [Fork] [⭐ Star]  │
+> │  It-s-Time-to-Get-It-Right         [Watch] [Fork] [⭐ Star] │
 > │                                                    ↑         │
 > │                                              Click here!     │
 > └──────────────────────────────────────────────────────────────┘
 > ```
 
 [![CVPR 2026 Findings](https://img.shields.io/badge/CVPR-2026%20Findings-8b0000.svg)](https://cvpr.thecvf.com/)
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon!-b31b1b.svg)](#)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
-[![Project Page](https://img.shields.io/badge/Project%20Page-Link-blue)](https://it-s-time-to-get-it-right.github.io/)
+[![Project Page](https://img.shields.io/badge/Project%20Page-Coming%20Soon!-blue)](#)
 
 ---
 
 ## Official GitHub
 
-- **Project Page**: [https://it-s-time-to-get-it-right.github.io/](https://it-s-time-to-get-it-right.github.io/)
+- **Project Page**: Coming Soon!
 - **Hugging Face Dataset**: [https://huggingface.co/datasets/jaeha-choi/TickTockVQA](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
 - **GitHub Repository**: [https://github.com/allchiever/It-s-Time-to-Get-It-Right](https://github.com/allchiever/It-s-Time-to-Get-It-Right)
 
@@ -98,9 +98,9 @@ python scripts/upload_to_huggingface.py --dataset_path ./data_pool/TickTockVQA_O
 
 ## Links
 
-- **arXiv**: [Add your paper link]
+- **arXiv**: Coming Soon!
 - **Hugging Face Dataset**: [https://huggingface.co/datasets/jaeha-choi/TickTockVQA](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
-- **Project Page**: [https://it-s-time-to-get-it-right.github.io/](https://it-s-time-to-get-it-right.github.io/)
+- **Project Page**: Coming Soon!
 
 ---
 
