@@ -85,14 +85,7 @@ python scripts/upload_to_huggingface.py --dataset_path ./data_pool/TickTockVQA_O
 
 ## Citation
 
-```bibtex
-@inproceedings{ticktockvqa2026,
-  title={It's Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models},
-  author={},
-  booktitle={CVPR},
-  year={2026}
-}
-```
+Coming Soon!
 
 ---
 
