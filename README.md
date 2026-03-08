@@ -14,7 +14,7 @@
 [![CVPR 2026 Findings](https://img.shields.io/badge/CVPR-2026%20Findings-8b0000.svg)](https://cvpr.thecvf.com/)
 [![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon!-b31b1b.svg)](#)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
-[![Project Page](https://img.shields.io/badge/Project%20Page-Coming%20Soon!-blue)](#)
+[![Project Page](https://img.shields.io/badge/Project%20Page-Link-blue)](https://it-s-time-to-get-it-right.github.io/)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## Official GitHub
 
-- **Project Page**: Coming Soon!
+- **Project Page**: [https://it-s-time-to-get-it-right.github.io/](https://it-s-time-to-get-it-right.github.io/)
 - **Hugging Face Dataset**: [https://huggingface.co/datasets/jaeha-choi/TickTockVQA](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
 - **GitHub Repository**: [https://github.com/allchiever/It-s-Time-to-Get-It-Right](https://github.com/allchiever/It-s-Time-to-Get-It-Right)
 
@@ -96,7 +96,7 @@ Coming Soon!
 
 - **arXiv**: Coming Soon!
 - **Hugging Face Dataset**: [https://huggingface.co/datasets/jaeha-choi/TickTockVQA](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
-- **Project Page**: Coming Soon!
+- **Project Page**: [https://it-s-time-to-get-it-right.github.io/](https://it-s-time-to-get-it-right.github.io/)
 
 ---
 
