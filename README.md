@@ -89,7 +89,7 @@ python scripts/upload_to_huggingface.py --dataset_path ./data_pool/TickTockVQA_O
 
 ## Citation
 
-If you find our work useful, please cite:
+If you find our work useful, we would appreciate a **Hugging Face** 🤗 like and a **GitHub** ⭐ Star. Thank you!
 
 ```bibtex
 @article{choi2026clockreasoning,
@@ -101,7 +101,6 @@ If you find our work useful, please cite:
 }
 ```
 
-If you find our work useful, we would appreciate a **Hugging Face** 🤗 like and a **GitHub** ⭐ Star. Thank you!
 
 ---
 
