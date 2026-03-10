@@ -27,8 +27,8 @@
 - **GitHub Repository**: [https://github.com/allchiever/It-s-Time-to-Get-It-Right](https://github.com/allchiever/It-s-Time-to-Get-It-Right)
 
 > **Dataset Notice**: This dataset is collected from publicly available data corpora. The copyright and redistribution conditions of the dataset do not belong to the authors of this project. Please refer to the respective source data corpora and the license information in the `annotations.json` file for details on usage, attribution, and redistribution terms.
->
-> If you use the TickTockVQA dataset, we would appreciate a **Hugging Face** 🤗 like and a **GitHub** ⭐ Star. Thank you!
+
+**If you find our work useful, we would appreciate a Hugging Face 🤗 like and a GitHub ⭐ Star. Thank you!**
 
 ---
 
