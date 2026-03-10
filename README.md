@@ -2,9 +2,9 @@
 
 # It's Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models.
 
-[Jaeha Choi](https://github.com/allchiever)<sup>1\*</sup>, [Jin Won Lee](https://github.com/jinleevv)<sup>2\*</sup>, Siwoo You<sup>1</sup>, Jangho Lee<sup>1†</sup>
+[Jaeha Choi](https://github.com/allchiever)<sup>1\*</sup>, [Jin Won Lee](https://github.com/jinleevv)<sup>2\*</sup>, Siwoo You<sup>1</sup>, Jangho Lee<sup>1</sup>
 
-<sup>\*</sup>Equal Contribution. <sup>†</sup>Corresponding Author.
+<sup>\*</sup>Equal Contribution.
 
 <sup>1</sup>Incheon National University, Incheon, Republic of Korea  
  <sup>2</sup>McGill University, Montreal, Canada
