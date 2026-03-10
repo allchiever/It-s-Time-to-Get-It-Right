@@ -12,7 +12,7 @@
 ### **CVPR 2026 Findings** 🔥
 
 [![CVPR 2026 Findings](https://img.shields.io/badge/CVPR-2026%20Findings-8b0000.svg)](https://cvpr.thecvf.com/)
-[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon!-b31b1b.svg)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.08011-b31b1b.svg)](https://arxiv.org/abs/2603.08011)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
 [![Project Page](https://img.shields.io/badge/Project%20Page-Link-blue)](https://it-s-time-to-get-it-right.github.io/)
 
@@ -27,6 +27,8 @@
 - **GitHub Repository**: [https://github.com/allchiever/It-s-Time-to-Get-It-Right](https://github.com/allchiever/It-s-Time-to-Get-It-Right)
 
 > **Dataset Notice**: This dataset is collected from publicly available data corpora. The copyright and redistribution conditions of the dataset do not belong to the authors of this project. Please refer to the respective source data corpora and the license information in the `annotations.json` file for details on usage, attribution, and redistribution terms.
+>
+> If you use the TickTockVQA dataset, we would appreciate a **Hugging Face** 🤗 like and a **GitHub** ⭐ Star. Thank you!
 
 ---
 
@@ -88,13 +90,24 @@ python scripts/upload_to_huggingface.py --dataset_path ./data_pool/TickTockVQA_O
 ---
 
 ## Citation
-Coming Soon!
+
+If you find our work useful, please cite:
+
+```bibtex
+@article{choi2026clockreasoning,
+  title   = {It's Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models},
+  author  = {Choi, Jaeha and Lee, Jin Won and You, Siwoo and Lee, Jangho},
+  journal = {arXiv preprint arXiv:2603.08011},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2603.08011}
+}
+```
 
 ---
 
 ## Links
 
-- **arXiv**: Coming Soon!
+- **arXiv**: [https://arxiv.org/abs/2603.08011](https://arxiv.org/abs/2603.08011)
 - **Hugging Face Dataset**: [https://huggingface.co/datasets/jaeha-choi/TickTockVQA](https://huggingface.co/datasets/jaeha-choi/TickTockVQA)
 - **Project Page**: [https://it-s-time-to-get-it-right.github.io/](https://it-s-time-to-get-it-right.github.io/)
 
